@@ -1,2 +1,2 @@
 # trabalho
-trabalho da faculdade
+Página web para um trabalho da faculdade.
